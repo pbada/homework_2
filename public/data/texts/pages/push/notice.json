@@ -1,0 +1,39 @@
+{
+  "list": [
+    {
+      "link": "/views/pages/push/noticeDetail.html",
+      "num": 5,
+      "date": "2018-09-20",
+      "state": "important",
+      "title": "※ 이온누리 여행사 피해구제 환불처리 기간 안내"
+    },
+    {
+      "link": "/views/pages/push/noticeDetail.html",
+      "num": 4,
+      "date": "2018-05-15",
+      "state": "important",
+      "title": "개인정보 처리방침 변경 안내"
+    },
+    {
+      "link": "/views/pages/push/noticeDetail.html",
+      "num": 3,
+      "date": "2016-05-09",
+      "state": "important",
+      "title": "적립금 유효기간 안내"
+    },
+    {
+      "link": "/views/pages/push/noticeDetail.html",
+      "num": 2,
+      "date": "2016-03-31",
+      "state": "important",
+      "title": "NS 유효기간제 DB 운용 안내"
+    },
+    {
+      "link": "/views/pages/push/noticeDetail.html",
+      "num": 1,
+      "date": "2015-09-01",
+      "state": "important",
+      "title": "개인정보 유효기간제 안내"
+    }
+  ]
+}

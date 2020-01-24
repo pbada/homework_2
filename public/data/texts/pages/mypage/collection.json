@@ -1,0 +1,45 @@
+{
+  "section": [
+    {
+      "title": "찜",
+      "copy": "",
+      "counter": 1,
+      "link": "#",
+      "list": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/itemimg/2/24/062/24380062_I.jpg",
+          "name": "[동부대우전자] 어린이 보호 잠금 기능 버튼식 전자레인지(15L) KR-U156W",
+          "price": {
+            "origin": 61500,
+            "sale": 60270
+          }
+        }
+      ]
+    },
+    {
+      "title": "Food",
+      "copy": "주말에 먹자",
+      "counter": 2,
+      "link": "#",
+      "list": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/itemimg/2/25/442/25743442_I.jpg",
+          "name": "[알찬]어머니 마음 가득담은 한마리 꽃게탕 500g x 4팩",
+          "price": {
+            "sale": 21900
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/itemimg/9/25/389/25471389_I.jpg",
+          "name": "[브랜드없음]말도안되는 초특가  통살 새우 튀김 大사이즈 통새우",
+          "price": {
+            "sale": 4900
+          }
+        }
+      ]
+    }
+  ]
+}

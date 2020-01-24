@@ -1,0 +1,99 @@
+{
+  "list": [
+    {
+      "user": "ch8***",
+      "date": "2018-10-17 20:38",
+      "rating": {
+        "shipping": 100,
+        "price": 100,
+        "quality": 100,
+        "design": 100
+      },
+      "review": {
+        "text": "계속 잘 사용하고 있어요. 중간에 다른치약으로 바꾸었다. 맘에 안들어 다시 사용하려고 주문했어요.",
+        "img": "//image.nsmall.com/ec_custimages/itemval/277/4766277_1.png"
+      }
+    },
+    {
+      "user": "joo***",
+      "date": "2018-10-17 08:08",
+      "rating": {
+        "shipping": 100,
+        "price": 80,
+        "quality": 60,
+        "design": 60
+      },
+      "review": {
+        "text": "치아에 붙이는 상품이 잘붙어있지 않습니다. 치약종류는 잘쓰고 있습니다.",
+        "img": "//image.nsmall.com/ec_custimages/itemval/189/4758189_1.jpg"
+      }
+    },
+    {
+      "user": "hak***",
+      "date": "2018-10-16 17:43",
+      "rating": {
+        "shipping": 100,
+        "price": 80,
+        "quality": 60,
+        "design": 100
+      },
+      "review": {
+        "text": "계속 쓰곤 있는데 글쎄 효능을 잘모르겠네요."
+      }
+    },
+    {
+      "user": "nho***",
+      "date": "2018-10-16 14:26",
+      "rating": {
+        "shipping": 100,
+        "price": 100,
+        "quality": 80,
+        "design": 100
+      },
+      "review": {
+        "text": "이가 조금 희어지는것을 느껴요 그런데 이가 약간 시린점도 있네요"
+      }
+    },
+    {
+      "user": "sys***",
+      "date": "2018-10-16 12:21",
+      "rating": {
+        "shipping": 100,
+        "price": 100,
+        "quality": 100,
+        "design": 100
+      },
+      "review": {
+        "text": "좀 효과가 있는것 같아요 꾸준히 사묭 해봐야겠어요",
+        "img": "//image.nsmall.com/ec_custimages/itemval/183/4711183_2.jpg"
+      }
+    },
+    {
+      "user": "whi***",
+      "date": "2018-10-16 06:21",
+      "rating": {
+        "shipping": 100,
+        "price": 100,
+        "quality": 100,
+        "design": 100
+      },
+      "review": {
+        "text": "계속 사용하는 재품 입니다",
+        "img": "//image.nsmall.com/ec_custimages/itemval/553/4719553_1.jpg"
+      }
+    },
+    {
+      "user": "nam***",
+      "date": "2018-10-15 21:53",
+      "rating": {
+        "shipping": 100,
+        "price": 100,
+        "quality": 100,
+        "design": 100
+      },
+      "review": {
+        "text": "기대하고 사용합니다"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "list": [
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/2/26/732/26014732_H.jpg",
+      "name": "해피딜 주간 2회이상 구매시 3천원 적립 (신청필) [일리윤] [엔아위크]여름 막바지 일리윤 선크림 \"1+1\" 찬스! 일리윤에서 만든 순한 프리미엄 선크림!  (4종 택1)",
+      "discount": 14,
+      "price": {
+        "origin": 13900,
+        "sale": 11900
+      },
+      "benefit": {
+        "freeshipping": true,
+        "sale": true,
+        "cardSale": 5
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/1/26/701/26831701_H.jpg",
+      "name": "해피딜 주간 2회이상 구매시 3천원 적립 (신청필) [더리얼] [8/28생산] 더리얼 레시피 비프로프 200g (50g x 4ea) + 3종 선물세트 증정",
+      "price": {
+        "sale": 13000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 5
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/24/525/24477525_H.jpg",
+      "name": "해피딜 주간 2회이상 구매시 3천원 적립 (신청필) [jw중외제약] JW중외제약 맥스비타민D 2000IU 3박스 총 3개월분",
+      "price": {
+        "sale": 10000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 5
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/9/25/429/25637429_H.jpg",
+      "name": "해피딜 주간 2회이상 구매시 3천원 적립 (신청필) [미미로린스] 미미로린스 니치퍼퓸 섬유향수/드레스퍼퓸 대용량 500ml 1+1",
+      "price": {
+        "sale": 10000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 5
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/1/24/811/24267811_H.jpg",
+      "name": "해피딜 주간 2회이상 구매시 3천원 적립 (신청필) [순천만수산] 벌교 새꼬막 1.5kg",
+      "price": {
+        "sale": 10000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 5
+      }
+    }
+  ]
+}

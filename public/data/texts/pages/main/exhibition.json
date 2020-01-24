@@ -1,0 +1,105 @@
+{
+  "main": {
+    "img": "//image.nsmall.com/ec_comimages/nsupload/xplat/2018/20180824/23201219423835279.jpg",
+    "name": "방송인기! DPC 대박 프로모션"
+  },
+  "list": [
+    {
+      "link": "#",
+      "img": "ht//image.nsmall.com/itemimg/5/26/255/26722255_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 핑크아우라쿠션 시즌 2 본품1+리필1 SET",
+      "sub": "더마퓨어클리닉 적립금 5%★",
+      "discount": 20,
+      "price": {
+        "sale": 26000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "sale": true,
+        "cadeSale": 3
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/4/26/254/26722254_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 핑크아우라쿠션 시즌 1 본품1+리필1 SET",
+      "price": {
+        "sale": 29000
+      },
+      "benefit": {
+        "freeshipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/3/26/263/26722263_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 핑크아우라쿠션 시즌 1 본품1+리필1 SET",
+      "price": {
+        "sale": 36000
+      },
+      "benefit": {
+        "freeshipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/0/26/570/26783570_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 핑크아우라쿠션 시즌 1 본품2+리필5 SET",
+      "price": {
+        "sale": 59000
+      },
+      "benefit": {
+        "freeshipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/0/26/500/26867500_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 핑크아우라쿠션 시즌 2 본품+[정품증정] 립스틱 6종 (택1)",
+      "price": {
+        "sale": 45000
+      },
+      "benefit": {
+        "freeshipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/1/26/501/26867501_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 핑크아우라쿠션 시즌 3 본품+[정품증정] 립틴트 6종 (택1)",
+      "price": {
+        "sale": 45000
+      },
+      "benefit": {
+        "freeshipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/9/26/509/26730509_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 루즈 퓨르 엑스퍼트 컬렉션",
+      "price": {
+        "sale": 75000
+      },
+      "benefit": {
+        "freeshipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/4/26/284/26722284_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 모이스트 립 글레이즈",
+      "price": {
+        "sale": 16800
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/26/285/26722285_H.jpg",
+      "name": "[더마퓨어클리닉] [DPC] 립 에너지 오일 01로즈",
+      "price": {
+        "sale": 16800
+      }
+    }
+  ]
+}

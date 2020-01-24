@@ -1,0 +1,173 @@
+@charset "UTF-8";
+@import "./styles/reset.scss";
+@import "./styles/utils.scss";
+
+.container {
+    max-width: $containerWidth;
+    margin: 50px auto;
+    font-size: 1rem; 
+   
+    .section {
+      max-width: $containerWidth;
+      margin: 0;
+    }
+  
+    .headline {
+      width: $containerWidth;
+      margin: 0;
+    }
+  
+    .blind {
+      position: absolute;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+      margin: -1px;
+      width: 1px;
+      height: 1px;
+    }
+  
+    .radio+label,
+    .radio,
+    .sel,
+    .inp {
+      height: $inpHeight;
+      padding: 0 5px;
+      margin: 0;
+      line-height: $inpHeight;
+      box-sizing: border-box;
+    }
+
+    .join_button_wrap {
+        position: fixed;
+        left: 10px;
+        right: 10px;
+        bottom: 10px;
+        
+        .join_button {
+            width: 100%;
+            line-height: $inpHeight;
+            text-align: center;
+            background-color: $basic;
+        }
+    }
+}
+  
+.section {
+    .row_group {
+      display: flex;
+      align-items: center;
+      padding: 7px 0;
+  
+      .join_title {
+        flex: none;
+        width: 88px;
+        font-size: .9rem; 
+      }
+    }
+  
+    &.id_section {
+      .join_wrap  {
+        width: 100%;
+        .inp {
+          width: 100%;
+        }
+      }
+    }
+  
+    &.gender_section {
+      .join_wrap  {
+        flex: 1;
+        text-align: center;
+  
+        &.male_cotent,
+        &.female_cotent {
+          overflow: hidden;
+          position: relative;
+  
+          label {
+            display: block;
+            border: 1px solid $basic;
+          }
+  
+          .radio {
+            position: absolute;
+            left: -999px;
+  
+            &:checked + label {
+              background-color: $basic;
+            }
+          }
+        }
+      }
+    }
+  
+    &.birthday_section {
+      .join_wrap  {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+  
+        .birthday_year {
+          flex: 3;
+  
+          .sel {
+            width: 95%;
+          }
+        }
+        
+        .birthday_month {
+          flex: 2;
+  
+          .sel {
+            width: 95%;
+          }
+        }
+         
+        .birthday_day {
+          flex: 2;
+  
+          .sel {
+            width: 100%;
+          }
+        }
+      }
+    }
+  
+    &.phone_section {
+      .join_wrap {
+        display: flex;
+        align-items: center;
+        width: 100%;
+  
+        .phone_wire {
+          flex: 1;
+          .sel {
+            width: 60px;
+          }
+        }
+  
+        .phone_number {
+          flex: 3;
+  
+          .inp {
+            width: 113px;
+          }
+  
+          .button_verify {
+            display: inline-block;
+            width: 60px;
+            margin-left: 5px;
+            padding: 5px;
+            border-radius: 5px;
+            background-color: $basic;
+            color: #111;
+            text-align: center;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+
+    &.terms_section {
+    }
+}

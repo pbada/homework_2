@@ -1,0 +1,58 @@
+{
+  "list": [
+    {
+      "link": "/views/pages/push/takePartDetail.html",
+      "title": "NSmall 룰렛이벤트",
+      "date": {
+        "start": "2018.10.01",
+        "end": "2018.10.31"
+      },
+      "enterDate": "2018.10.10"
+    },
+    {
+      "link": "/views/pages/push/takePartDetail.html",
+      "title": "해피딜 7천원 쿠폰",
+      "date": {
+        "start": "2018.10.01",
+        "end": "2018.10.31"
+      },
+      "enterDate": "2018.10.10"
+    },
+    {
+      "link": "/views/pages/push/takePartDetail.html",
+      "title": "해피딜 3천원 쿠폰",
+      "date": {
+        "start": "2018.10.01",
+        "end": "2018.10.31"
+      },
+      "enterDate": "2018.10.10"
+    },
+    {
+      "link": "/views/pages/push/takePartDetail.html",
+      "title": "해피딜 1천원 쿠폰",
+      "date": {
+        "start": "2018.10.01",
+        "end": "2018.10.31"
+      },
+      "enterDate": "2018.10.10"
+    },
+    {
+      "link": "/views/pages/push/takePartDetail.html",
+      "title": "해피딜 명예의 전당 5%쿠폰",
+      "date": {
+        "start": "2018.07.26",
+        "end": "2019.12.31"
+      },
+      "enterDate": "2018.09.28"
+    },
+    {
+      "link": "/views/pages/push/takePartDetail.html",
+      "title": "해피딜 만세특가 2회이상 구매시 3천원 적립!",
+      "date": {
+        "start": "2018.09.24",
+        "end": "2018.09.30"
+      },
+      "enterDate": "2018.09.28"
+    }
+  ]
+}

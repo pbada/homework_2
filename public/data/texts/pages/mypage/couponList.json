@@ -1,0 +1,52 @@
+{
+  "coupon": [
+    {
+      "useLimit": "모바일/방송/인터넷",
+      "expirationDate": "5일(~09/26)",
+      "name": "[매직쿠폰]2018년9월 재구매_TV한복선,이종임 17%",
+      "saleLabel": {
+        "rate": 17
+      },
+      "number": 1059113
+    },
+    {
+      "useLimit": "모바일/인터넷",
+      "expirationDate": "16일(~05/11)",
+      "name": "[바로방문][매니아]TV상품 3% 할인",
+      "condition": "40,000원 이상 구매시",
+      "saleLabel": {
+        "rate": 3
+      },
+      "number": 1023104
+    },
+    {
+      "useLimit": "모바일/인터넷",
+      "expirationDate": "16일(~05/11)",
+      "name": "[바로방문][매니아]TV상품 3% 할인",
+      "condition": "30,000원 이상 구매시",
+      "saleLabel": {
+        "rate": 3
+      },
+      "number": 1013967
+    },
+    {
+      "useLimit": "모바일/인터넷",
+      "expirationDate": "16일(~05/11)",
+      "name": "[바로방문][매니아]알뜰 2,000원할인",
+      "condition": "30,000원 이상 구매시",
+      "saleLabel": {
+        "pirce": 10000
+      },
+      "number": 1054091
+    },
+    {
+      "useLimit": "모바일/방송/인터넷/카탈로그",
+      "expirationDate": "5일(~04/30)",
+      "name": "[매직쿠폰]2018년4월 신규 TV,쇼핑북 13%",
+      "saleLabel": {
+        "rate": 13
+      },
+      "number": 1054888
+    }
+  ]
+}

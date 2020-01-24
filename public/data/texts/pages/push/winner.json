@@ -1,0 +1,53 @@
+{
+  "list": [
+    {
+      "link": "/views/pages/push/winnerDetail.html",
+      "title": "태양볼류머",
+      "eventDate": "-",
+      "airTime": "2018.10.10 09:20~10:25",
+      "statement": "2018.10.11"
+    },
+    {
+      "link": "/views/pages/push/winnerDetail.html",
+      "title": "시크릿뮤즈팩트",
+      "eventDate": "-",
+      "airTime": "2018.10.09 07:25~08:20",
+      "statement": "2018.10.11"
+    },
+    {
+      "link": "/views/pages/push/winnerDetail.html",
+      "title": "세라젬",
+      "eventDate": "-",
+      "airTime": "2018.10.09 20:40~21:40",
+      "statement": "2018.10.10"
+    },
+    {
+      "link": "/views/pages/push/winnerDetail.html",
+      "title": "앤블리피부관리기",
+      "eventDate": "-",
+      "airTime": "2018.10.08 08:20~09:20",
+      "statement": "2018.10.08"
+    },
+    {
+      "link": "/views/pages/push/winnerDetail.html",
+      "title": "시크릿뮤즈팩트",
+      "eventDate": "-",
+      "airTime": "2018.10.07 21:35~22:45",
+      "statement": "2018.10.08"
+    },
+    {
+      "link": "/views/pages/push/winnerDetail.html",
+      "title": "한샘키친 2부",
+      "eventDate": "-",
+      "airTime": "2018.10.07 19:20~20:35",
+      "statement": "2018.10.08"
+    },
+    {
+      "link": "/views/pages/push/winnerDetail.html",
+      "title": "여행상품경비지원",
+      "eventDate": "-",
+      "airTime": "2018.10.07 18:20~19:20",
+      "statement": "2018.10.08"
+    }
+  ]
+}

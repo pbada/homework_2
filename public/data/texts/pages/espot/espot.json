@@ -1,0 +1,688 @@
+{
+  "cate": [
+    {
+      "link": "#",
+      "name": "cate01"
+    },
+    {
+      "link": "#",
+      "name": "cate02"
+    },
+    {
+      "link": "#",
+      "name": "cate03"
+    },
+    {
+      "link": "#",
+      "name": "cate04"
+    },
+    {
+      "link": "#",
+      "name": "cate05"
+    }
+  ],
+  "cntnt": [
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/(m)d0802_ETV_MAIN_WIDEBANNER.jpg",
+      "name": "모바일 앱 10%적립+5%할인"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/(m)d0723_ETV_MAIN_WIDEBANNER_preorder.jpg",
+      "name": "미리주문 10%~5% 즉시할인"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/(m)d0820_etv_special_main_widebanner_5per.jpg",
+      "name": "8월특집 10%즉시할인/최대20%적립혜택/5%행사카드청구할인"
+    }
+  ],
+  "cntnt2w": [
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/(m)d0521_etv_main_bn_event_01.jpg",
+      "name": "10%적립+5%할인"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/(m)d0917_etv_main_bn_event_02.jpg",
+      "name": "방송 전일까지 미리주문 10~5% 즉시할인"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/mob_2018_chuseok_main_bn_03.jpg",
+      "name": "웰컴 할인혜택"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/mob_2018_chuseok_main_bn_04.jpg",
+      "name": "카드 청구할인"
+    }
+  ],
+  "themecate": [
+    {
+      "link": "#",
+      "name": "TV히트템"
+    },
+    {
+      "link": "#",
+      "name": "건강기능식품"
+    },
+    {
+      "link": "#",
+      "name": "일반식품"
+    },
+    {
+      "link": "#",
+      "name": "리빙"
+    },
+    {
+      "link": "#",
+      "name": "뷰티"
+    },
+    {
+      "link": "#",
+      "name": "패션/잡화"
+    }
+  ],
+  "swiperProd": [
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0620_26420052.jpg",
+      "lable": "(일시불)일월 냉풍기 IW-803L",
+      "price": 123000
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0620_26197748.jpg",
+      "lable": "쿠미투니카 오가닉 쿨 프레시팬티",
+      "price": 69900,
+      "benefit": {
+        "card": 3
+      }
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0620_26392875.jpg",
+      "lable": "파나쉬 펀칭샌들",
+      "price": 49000
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0620_26271837.jpg",
+      "lable": "아키 노와이어 라이크라 풀커버 컬렉션(뉴아키12차)",
+      "price": 69900,
+      "benefit": {
+        "card": 3
+      }
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0619_26420894.jpg",
+      "lable": "삭루츠 미니 크로스",
+      "price": 43000
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0612_26296287.jpg",
+      "lable": "NNF 쿨컬러 썸머팬츠세트 3종",
+      "price": 39000
+    }
+  ],
+  "list": [
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_21813857_icon.jpg",
+      "label": "종근당건강 츄어블 비타민D1000IU 2병",
+      "price": {
+        "origin": 18120,
+        "sale": 15400
+      },
+      "discount": 15,
+      "purchase": 23,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 98
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_24102611_icon.jpg",
+      "label": "종근당 본사 볼리비아 브라질너트 100G 2봉",
+      "price": {
+        "sale": 26900
+      },
+      "purchase": 25,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 94
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_24122063_icon.jpg",
+      "label": "종근당건강 본사 헬씨칸 간사랑 밀크씨슬 2박스",
+      "price": {
+        "origin": 19800,
+        "sale": 23300
+      },
+      "discount": 15,
+      "purchase": 18,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 96
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_24353788_icon.jpg",
+      "label": "루테인오메가3 아이클리어 마스터 2박스 종근당",
+      "price": {
+        "origin": 31770,
+        "sale": 27000
+      },
+      "discount": 15,
+      "purchase": 9,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 94
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_24353794_icon.jpg",
+      "label": "종근당건강 엑스트라버진 아보카도 오일 2병",
+      "price": {
+        "origin": 49300,
+        "sale": 41900
+      },
+      "discount": 15,
+      "purchase": 16,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 99
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_24464478_icon.jpg",
+      "label": "종근당건강 본사 스페인산 벌화분 비폴렌 2병",
+      "price": {
+        "origin": 28120,
+        "sale": 23900
+      },
+      "discount": 15,
+      "purchase": 10,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 99
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_24804339_icon.jpg",
+      "label": "종근당건강 락토핏 생유산균 키즈 베베 60포",
+      "price": {
+        "origin": 26950,
+        "sale": 22900
+      },
+      "discount": 15,
+      "purchase": 58,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 97
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_24923053_icon.jpg",
+      "label": "종근당건강 본사 프로메가 오메가3 파워 3박스",
+      "price": {
+        "origin": 54000,
+        "sale": 45900
+      },
+      "discount": 15,
+      "purchase": 13,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7,
+        "save": true
+      },
+      "satisfaction": 100
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/06/(m)0614_deal_26446456_iconl.jpg",
+      "label": "종근당건강 락토핏 생유산균 뷰티 60포 1통",
+      "price": {
+        "origin": 54000,
+        "sale": 45900
+      },
+      "discount": 15,
+      "purchase": 13,
+      "benefit": {
+        "freeShipping": true,
+        "cardSale": 7
+      }
+    }
+  ],
+  "sumList": [
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/3/21/653/21899653_O.jpg",
+      "label": "[도드람한돈] 生 등심꽃살 500g 외 골라담기",
+      "price": {
+        "sale": 6900
+      },
+      "purchase": 5262
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/0/22/310/22324310_O.jpg",
+      "label": "[본사직영] 고려은단 비타민C1000  600정 / 쇼핑백 / 영국산 비타민C",
+      "price": {
+        "sale": 47000
+      },
+      "purchase": 150,
+      "benefit": {
+        "save": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/22/965/22720965_O.jpg",
+      "label": "웅진 빅토리아 플레인 탄산수/탄산음료 6종 500ml x 20페트 (레몬/라임/자몽/콜라향/복숭아향) /무료배송/",
+      "price": {
+        "sale": 9900
+      },
+      "purchase": 2628,
+      "benefit": {
+        "save": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/2/22/462/22748462_O.jpg",
+      "label": "자연퐁/퐁퐁 대용량 주방세제 3.1kg 2개",
+      "price": {
+        "sale": 9900
+      },
+      "purchase": 952,
+      "benefit": {
+        "save": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/3/24/743/24004743_O.jpg",
+      "label": "[가쯔]멀티블럭리빙박스24L 1개 외 옷걸이 모음전",
+      "price": {
+        "sale": 3800
+      },
+      "purchase": 3105,
+      "benefit": {
+        "freeSipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/7/24/167/24021167_O.jpg",
+      "label": "산지애 사과원액주스 30팩 + 30팩 / 사과즙, 100% 착즙, NFC / 무료배송",
+      "price": {
+        "sale": 36900
+      },
+      "purchase": 178,
+      "benefit": {
+        "save": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/7/24/627/24603627_O.jpg",
+      "label": "[무배]인기만점 규조토매트/발매트 2가지사이즈",
+      "price": {
+        "sale": 9900
+      },
+      "purchase": 257,
+      "benefit": {
+        "save": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/24/715/24907715_O.jpg",
+      "label": "네추럴 메이드 메모리폼 쿨 필로우",
+      "price": {
+        "sale": 9900
+      },
+      "purchase": 101,
+      "benefit": {
+        "save": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/9/25/209/25627209_O.jpg",
+      "label": "1+1 추억을 구웠다! 추억의 과자 전병 총2kg",
+      "price": {
+        "sale": 11900
+      },
+      "purchase": 2108,
+      "benefit": {
+        "freeSipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/8/25/858/25708858_O.jpg",
+      "label": "도무스 세라 인덕션(IH) 자일란 마블코팅 후라이팬 4종(20후+24후+28후+멀티커버",
+      "price": {
+        "sale": 22900
+      },
+      "purchase": 108,
+      "benefit": {
+        "freeSipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/8/25/488/25722488_O.jpg",
+      "label": "서울 멸균흰우유 200ml X 24팩",
+      "price": {
+        "sale": 12500
+      },
+      "purchase": 1482,
+      "benefit": {
+        "freeSipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/25/255/25944255_O.jpg",
+      "label": "천연버터 슈퍼푸드 아보카도 중소과 8과 / 2set 구매시 4과 증정",
+      "price": {
+        "sale": 10000
+      },
+      "purchase": 2496,
+      "benefit": {
+        "freeSipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/2/25/232/25972232_O.jpg",
+      "label": "포근포근  햇감자 10kg 중",
+      "price": {
+        "sale": 10000
+      },
+      "purchase": 5086,
+      "benefit": {
+        "freeSipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/4/26/044/26017044_O.jpg",
+      "label": "무배 남여 실리콘 페이크삭스 덧신 20족 특가",
+      "price": {
+        "sale": 10900
+      },
+      "purchase": 7150,
+      "benefit": {
+        "freeSipping": true
+      }
+    }
+  ],
+  "prdList": [
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/9/23/059/23111059_H.jpg",
+      "name": "[TV]리홍 노르웨이숲 시즌2 이중암막커튼 슈퍼특대형(앞치마)",
+      "price": {
+        "sale": 129000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 7,
+        "cardFree": 5
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/8/23/058/23111058_H.jpg",
+      "name": "[TV]리홍 노르웨이숲 시즌2 이중암막커튼 특대형(앞치마)",
+      "price": {
+        "sale": 109000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 7,
+        "cardFree": 4
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/7/23/057/23111057_H.jpg",
+      "name": "[TV]리홍 노르웨이숲 시즌2 이중암막커튼 중형(앞치마)",
+      "price": {
+        "origin": 69000,
+        "sale": 68000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "sale": 1,
+        "cardSale": 7,
+        "cardFree": 3
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/6/23/056/23111056_H.jpg",
+      "name": "[TV]리홍 노르웨이숲 시즌2 이중암막커튼 대형(앞치마)",
+      "price": {
+        "origin": 89000,
+        "sale": 88000
+      },
+      "benefit": {
+        "freeshipping": true,
+        "sale": 1,
+        "cardSale": 7,
+        "cardFree": 3
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/9/23/119/23021119_H.jpg",
+      "name": "[동원] 양반 캔김치160gX5개",
+      "price": {
+        "sale": 8900
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 7
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/3/22/663/22982663_H.jpg",
+      "name": "맥심 모카골드 커피믹스 420T(210T+210T)  /무료배송 /최근생산품",
+      "price": {
+        "sale": 43800
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 7
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/3/27/373/27086373_O.jpg",
+      "name": "[TV]블루미너스 유기농 모링가파우더 2세트/총 30통+텀브루보틀",
+      "price": {
+        "sale": 178000
+      },
+      "benefit": {
+        "freeShipping": true
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/7/26/107/26869107_O.jpg",
+      "name": "[TV]관절팔팔 총 6병/3개월분",
+      "price": {
+        "sale": 178200
+      },
+      "benefit": {
+        "freeShipping": true
+      }
+    }
+  ],
+  "vodSwiperProd": [
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/beauty_13.png",
+      "title": "고급져, 미미로린스 바디 3종 세트",
+      "sub": "이 세상 향기가 아니시다☆",
+      "timer": "00:38"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/life_17.jpg",
+      "title": "케이스가 이렇게 귀엽고 난리?",
+      "sub": "에어팟 영혼의 단짝, 카카오 에어팟 케이스",
+      "timer": "00:39"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/food_03.jpg",
+      "title": "매생이 덕후 다 모엿! JMT 스페셜 떡국",
+      "sub": "뱃속에 들이셔야 합니다, 설에는 매생이 떡국",
+      "timer": "00:40"
+    }
+  ],
+  "vodList": [
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/life_01.jpg",
+      "timer": "00:44",
+      "info": "미세먼지 다 비켜! 웰킵스 황사마스크 "
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/food_04.jpg",
+      "timer": "00:50",
+      "info": "SNS 난리난 바로 그 레시피! 아보카도 명란비빔밥 "
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/beauty_13.png",
+      "timer": "00:38",
+      "info": "고급져, 미미로린스 바디 3종 세트 "
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/life_14.jpg",
+      "timer": "01:02",
+      "info": "요리도 장비빨! 4in1기능의 라쿠진 핸드블랜더"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/beauty_015.jpg",
+      "timer": "01:04",
+      "info": "건성러를 위한 띵템 !  앤블리 갈바닉 피부관리기"
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/life_17.jpg",
+      "timer": "00:39",
+      "info": "케이스가 이렇게 귀엽고 난리? "
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/food_03.jpg",
+      "timer": "00:40",
+      "info": "매생이 덕후 다 모엿! JMT 스페셜 떡국"
+    }
+  ],
+  "vodDetailList": [
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0620_26420052.jpg",
+      "vod": "http://nsplay.nsmall.com/nsplay_vod/2018/20181227/8354874016738857.mp4",
+      "timer": "00:39",
+      "title": "우리 댕댕이는 소듕하니까!  하림펫푸드",
+      "sub": "100% 휴먼그레이드 원료의 품격",
+      "keywords": "샤플블링",
+      "info": {
+        "play": 173,
+        "like": 4,
+        "date": "1달전"
+      }
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0620_26420052.jpg",
+      "vod": "http://nsplay.nsmall.com/nsplay_vod/2018/20181227/8354874016738857.mp4",
+      "timer": "01:30",
+      "title": "전적으로 믿으셔야 합니다, 근육통엔 스포테라팜",
+      "sub": "동국제약이 만든 초소형 마사지기!",
+      "keywords": "샤플볼링",
+      "info": {
+        "play": 119,
+        "like": 0,
+        "date": "1달전"
+      }
+    },
+    {
+      "link": "#",
+      "img": "/data/images/pages/espot/etcom_hot_0620_26420052.jpg",
+      "vod": "http://nsplay.nsmall.com/nsplay_vod/2018/20181227/8354874016738857.mp4",
+      "timer": "00:57",
+      "title": "멋남의 필수템 아니겠능교! 아오맥스 낚시세트",
+      "sub": "아오맥스와 함께 겨울바다로 떠나자!",
+      "keywords": "샤플샤플",
+      "info": {
+        "play": 123,
+        "like": 1,
+        "date": "1달전"
+      }
+    }
+  ],
+  "programImg": [
+    {
+      "img": "/data/images/pages/espot/@thumb_pr_first.gif",
+      "info": "샤플블링"
+    },
+    {
+      "img": "/data/images/pages/espot/@thumb_pr_first.gif",
+      "info": "샤플블링"
+    },
+    {
+      "img": "/data/images/pages/espot/@thumb_pr_second.gif",
+      "info": "샤플먹방"
+    },
+    {
+      "img": "/data/images/pages/espot/@thumb_pr_second.gif",
+      "info": "샤플먹방"
+    },
+    {
+      "img": "/data/images/pages/espot/@thumb_pr_third.gif",
+      "info": "샤플라이프"
+    }
+  ]
+}

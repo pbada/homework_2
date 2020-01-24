@@ -1,0 +1,92 @@
+/*!
+NSmall-mobile
+NSMALL Platform System Team
+1.2.40
+
+*/
+hr {
+  display: none;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+  font-family: dotum, sans-serif;
+  font-size: 15px;
+  line-height: 1;
+  color: #666;
+  -webkit-text-size-adjust: none;
+}
+
+#wrap {
+  width: 100%;
+  min-height: 100%;
+  overflow: hidden;
+}
+
+#header .page-header {
+  position: relative;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  background: #f7f7f7;
+}
+
+#header .page-header h1 {
+  margin: 0;
+  padding: 0;
+  height: 40px;
+  line-height: 40px;
+  color: #333;
+  text-align: center;
+}
+
+#header .page-header h1 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#header .page-header .btn.ico {
+  display: block;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-image: url("../images/common/bg_header.png");
+  background-repeat: no-repeat;
+  background-size: 240px auto;
+  -webkit-background-size: 240px auto;
+}
+
+#header .page-header .btn.ico span {
+  position: relative;
+  z-index: -1;
+}
+
+#header .page-header .btn.ico.back {
+  top: 0;
+  left: 4px;
+  background-position: 0 -80px;
+}
+
+#content {
+  overflow: hidden;
+  background-color: #fff;
+}
+
+#content .content-primary {
+  padding: 1em;
+}
+
+#footer {
+  position: relative;
+  padding: 1em;
+  text-align: center;
+  overflow: hidden;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  text-align: center;
+  color: #999;
+}

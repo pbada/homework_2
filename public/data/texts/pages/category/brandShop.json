@@ -1,0 +1,44 @@
+{
+  "name": "가온길",
+  "counter": 3,
+  "list": [
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/0/24/520/24862520_O.jpg",
+      "name": "[가온길] 가온길 쿨 시어서커 여름침구세트(S)",
+      "discount": 1,
+      "price": {
+        "origin": 59900,
+        "sale": 58900
+      },
+      "benefit": {
+        "best": true,
+        "freeshipping": true,
+        "cardSale": 5
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/0/24/520/24862520_O.jpg",
+      "name": "[가온길] 가온길 쿨 시어서커 여름침구세트(Q)",
+      "discount": 1,
+      "price": {
+        "origin": 69900,
+        "sale": 68900
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/24/525/24477525_H.jpg",
+      "name": "[가온길] 가온길 쿨 시어서커 여름침구세트(K)",
+      "price": {
+        "origin": 79900,
+        "sale": 78900
+      },
+      "benefit": {
+        "freeshipping": true,
+        "cardSale": 5
+      }
+    }
+  ]
+}

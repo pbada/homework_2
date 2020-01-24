@@ -1,0 +1,33 @@
+{
+  "list": [
+    {
+      "link": "/views/pages/push/alarmDetail.html",
+      "date": "2018-09-20",
+      "title": "앱 방문감사 혜택!"
+    },
+    {
+      "link": "/views/pages/push/alarmDetail.html",
+      "date": "2018-05-15",
+      "state": "new",
+      "title": "포장김치 1위 종가집"
+    },
+    {
+      "link": "/views/pages/push/alarmDetail.html",
+      "date": "2016-05-09",
+      "state": "new",
+      "title": "대륙의 실수 차이슨"
+    },
+    {
+      "link": "/views/pages/push/alarmDetail.html",
+      "date": "2016-03-31",
+      "state": "new",
+      "title": "13%적립+7%청구할인(삼성/농협)"
+    },
+    {
+      "link": "/views/pages/push/alarmDetail.html",
+      "date": "2015-09-01",
+      "state": "new",
+      "title": "쿠쿠 블랜드위크"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+/*!
+NSmall-mobile
+NSMALL Platform System Team
+1.2.40
+
+*/
+.page-header h1 {
+  position: absolute;
+  overflow: hidden;
+  visibility: hidden;
+  margin: 0;
+  padding: 0;
+  width: 0;
+  height: 0;
+  line-height: 0;
+  font-size: 0;
+}
+
+.guide-detail .pagination {
+  margin: 10px auto;
+}
+
+.guide-detail .button-area {
+  margin: 10px;
+}
+
+.content-primary .section {
+  margin: 10px;
+}
+
+.app_downList ul {
+  list-style: none;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.app_downList ul li {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #cfcfcf;
+  position: relative;
+  background: url("/images/guide/icon_app.png") no-repeat;
+  background-size: 57px;
+}
+
+.app_downList ul li:nth-child(1) {
+  background-size: 57px;
+  background-position: 10px 15px;
+}
+
+.app_downList ul li:nth-child(2) {
+  background-size: 57px;
+  background-position: 10px -70px;
+}
+
+.app_downList ul li:after {
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  margin-top: -22px;
+  width: 44px;
+  height: 44px;
+  background: url("/images/common/bg_bullet.png") no-repeat right -132px;
+  background-size: 100%;
+}
+
+.app_downList ul li:last-child {
+  border-bottom: none;
+}
+
+.app_downList ul li a {
+  display: block;
+  text-decoration: none;
+  color: #333;
+  padding: 15px 10px;
+}
+
+.app_downList ul li a span {
+  display: block;
+  padding-left: 70px;
+  padding-right: 50px;
+}
+
+.app_downList ul li a span:first-child {
+  font-weight: bold;
+  padding-bottom: 7px;
+}
+
+.app_downList ul li a span.app_title01 {
+  color: #8d356c;
+}
+
+.app_downList ul li a span.app_title02 {
+  color: #1b837d;
+}
+
+.hotline2.puch .head {
+  letter-spacing: -1.5px;
+}
+
+.hotline2 .checkArea.puch {
+  padding-bottom: 10px;
+}
+
+.hotline2.puch .modi {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.hotline2.puch .infotxt {
+  display: block;
+  color: #555;
+  font-size: 10px;
+  border-top: 1px dotted #d9dadc;
+  padding-top: 7px;
+  letter-spacing: 0;
+}
+
+.hotline2 .checkArea.puch a:first-child {
+  margin-right: 3px;
+}
+
+.hotline2 .checkArea.puch a {
+  position: static;
+  margin-top: -6px;
+  width: 53px;
+  float: left;
+  height: 32px;
+  border: 1px solid #d0d0d0;
+  border-radius: 4px;
+  background-color: #fff;
+  font-size: 14px;
+  letter-spacing: -.1em;
+}
+
+.hotline2 .checkArea.puch a span {
+  display: block;
+  width: 100%;
+  line-height: 32px;
+  color: #d0d0d0;
+  font-weight: bold;
+  white-space: nowrap;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.hotline2 .checkArea.puch a.active {
+  border-radius: 4px;
+  background-color: #e7392f;
+  border-color: #d52e24;
+}
+
+.hotline2 .checkArea.puch a.active span {
+  color: #fff;
+  font-weight: bold;
+}
+
+.mt5 {
+  margin-top: 5px !important;
+}
+
+.mt20 {
+  margin-top: 20px !important;
+}
+
+.footTxt {
+  margin: 0 10px 40px;
+  font-size: 12px;
+}
+
+.footTxt h5 {
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 12px;
+  color: #666;
+}
+
+.footTxt p {
+  margin-top: 10px;
+  color: #8a8c91;
+  line-height: 17px;
+}
+
+.footTxt .num_list li {
+  padding-left: 13px;
+  color: #8a8c91;
+  text-indent: -13px;
+  line-height: 17px;
+}
+
+.footTxt .num_list1 li {
+  padding-left: 9px;
+  color: #8a8c91;
+  text-indent: -9px;
+  line-height: 17px;
+}
+
+.footTxt .num_list2 li {
+  padding-left: 6px;
+  color: #8a8c91;
+  text-indent: -6px;
+  line-height: 17px;
+}
+
+.footTxt .num_sublist1 li {
+  padding-left: 53px;
+  text-indent: -53px;
+}
+
+.footTxt .num_sublist2 li {
+  padding-left: 6px;
+  text-indent: -6px;
+}
+
+.footTxt .num_sublist3 li {
+  margin-left: 5px;
+  padding-left: 10px;
+  text-indent: -10px;
+}
+
+.footTxt table {
+  width: 100%;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  text-indent: 0;
+  border-collapse: collapse;
+}
+
+.footTxt table caption {
+  overflow: hidden;
+  visibility: hidden;
+  margin: 0;
+  padding: 0;
+  width: 0;
+  height: 0;
+  line-height: 0;
+  font-size: 0;
+}
+
+.footTxt table th {
+  padding: 9px 10px 6px;
+  color: #777;
+  font-weight: bold;
+  text-align: center;
+  background: #eaeaea;
+  border-left: 1px solid #ccc;
+}
+
+.footTxt table td {
+  padding: 7px 10px 4px;
+  color: #8a8c91;
+  line-height: 17px;
+  border-left: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+
+.footTxt a {
+  color: #666;
+  text-decoration: none;
+}
+
+.footTxt .enforcement_date {
+  margin-top: 10px;
+}
+
+.footTxt .enforcement_date p {
+  margin: 0;
+  line-height: 17px;
+}
+
+.footTxt .enforcement_date a {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}

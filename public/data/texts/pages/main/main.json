@@ -1,0 +1,515 @@
+{
+  "nsLive": {
+    "mainProduct": {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/25/335/25918335_X6.jpg",
+      "name": "[TV]국내산 반건조 간재미 총 14팩(몸통살 250gX7팩+날개살 250gX7팩)",
+      "info": {
+        "prices": {
+          "sale": 49900
+        }
+      }
+    },
+    "product": [
+      {
+        "link": "#",
+        "img": "//image.nsmall.com/itemimg/2/28/952/28211952_H.jpg",
+        "name": "[5월특집 10%할인]프라다 레더 크로스백",
+        "info": {
+          "benefit": {
+            "cardFree": 24
+          },
+          "price": {
+            "sale": 1290000
+          }
+        }
+      },
+      {
+        "link": "#",
+        "img": "//image.nsmall.com/itemimg/7/28/527/28159527_H.jpg",
+        "name":  "[eTV]매일유업 매일코어프로틴 1캔",
+        "info": {
+          "price": {
+            "sale": 29000
+          }
+        }
+      }
+    ]
+  },
+  "nsShopPlus": {
+    "mainProduct": {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/5/25/625/25594625_X6.jpg",
+      "name": "[NS Shop+]통영 간편 아구찜 11팩",
+      "info": {
+        "prices": {
+          "sale": 39900
+        }
+      }
+    },
+    "product": [
+      {
+        "link": "#",
+        "img": "//image.nsmall.com/itemimg/3/28/423/28158423_H.jpg",
+        "name": "[NS Shop+]벨레즈온 브라캡 심리스 원피스 패키지",
+        "info": {
+          "benefit": {
+            "cardFree": 3
+          },
+          "price": {
+            "sale": 49900
+          }
+        }
+      },
+      {
+        "link": "#",
+        "img": "//image.nsmall.com/itemimg/9/28/789/28049789_H.jpg",
+        "name":  "[NS Shop+]실크트리 풍기인견 데일리 쿨 이지탑 패키지",
+        "info": {
+          "price": {
+            "sale": 39600
+          }
+        }
+      }
+    ]
+  },
+  "ddingLive": {
+    "product": [
+      {
+        "link": "#",
+        "img": "//image.nsmall.com/itemimg/2/28/812/28021812_H.jpg",
+        "name": "단하루 이벤트 슐스타드 에어프라이어전용 베이커리 골라담기 / 2세트 구매시 증정",
+        "info": {
+          "price": {
+            "sale": 12600
+          }
+        }
+      }
+    ]
+  },
+  "prodList": [
+    {
+      "productNumber": "671054",
+      "title": "해피딜",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/tit_happydeal.png",
+      "class": "titHappydeal",
+      "list": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0314_deal_25709898.jpg",
+          "name": "[뉴트리디데이] 뉴트리디데이 칼로젤리 5kcal 곤약젤리 170ml 10+2 (복숭아/포도/사과)",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "label": "해피딜가",
+              "sale": 10000
+            },
+            "counter": 5039
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0314_deal_26002957_1.jpg",
+          "name": "★NS특가★ 참쥐포 최대 30마리x2개 최대 60마리/ 무료배송",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "label": "해피딜가",
+              "sale": 10000,
+              "etc": true
+            },
+            "counter": 22
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0314_deal_24966778.jpg",
+          "name": "안전한 슈퍼대디 아기물티슈 신학기 10팩+2팩 특가",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "label": "해피딜가",
+              "sale": 10000
+            },
+            "counter": 4000
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0310_deal_26002153_1.jpg",
+          "name": "[다이슨] [신제품출시기념 10%적립]다이슨 싸이클론V10,무선 청소기 V8 / 비밀특가기획",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 727560,
+              "origin": 774000
+            },
+            "counter": 6
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/03/d0314_WEDfood_wide_01.jpg",
+          "name": "맛과 품질이 뛰어난! 애플망고 대과 4kg 7~10과",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "label": "해피딜가",
+              "sale": 39900,
+              "etc": true
+            },
+            "counter": 29
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/03/d0314_WEDfood_wide_03.jpg",
+          "name": "순우리한우 1++등급 국거리/불고기 400g",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "label": "해피딜가",
+              "sale": 19900,
+              "etc": true
+            },
+            "counter": 973
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/03/d0314_WEDfood_wide_06.jpg",
+          "name": "[시호스무디] *12일~14일까지 욜로보틀증정*시호스무디 클렌즈 4컬러 패키지 20팩 뷰티북 증정",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 78950,
+              "origin": 84900,
+              "etc": true
+            },
+            "counter": 1120
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/03/d0314_WEDfood_wide_05.jpg",
+          "name": "[안흥식품] 고소한 할매찹쌀 호떡 50gx20개 총1000g",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "label": "해피딜가",
+              "sale": 8900
+            },
+            "counter": 1616
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/03/d0314_WEDfood_wide_02.jpg",
+          "name": "[(주)그랜드농산] 식이섬유가 풍부한 병아리콩 1kg + 1kg/총2kg / 무료배송",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "label": "해피딜가",
+              "sale": 7500
+            },
+            "counter": 34
+          }
+        }
+      ],
+      "specialBanner": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/03/(m)d0309_promo_thumnail_1.jpg",
+          "label": "봄맞이 나들이 시니커즈 5%"
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/promo/2018/03/(m)d0312_promo_brandday_thumnail.jpg",
+          "label": "NS단독! LG생활건강"
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/etv/(m)d0312_beauty_fair_thumbnail.jpg",
+          "label": "NS홈쇼핑 인기상품 특가존"
+        }
+      ]
+    },
+    {
+      "productNumber": "671054",
+      "title": "NFood",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/tit_food.png",
+      "class": "titFood",
+      "list": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/25977196.jpg",
+          "name": "[한산도수산] 봄철의 별미! 도다리 쑥국세트",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 15900
+            },
+            "counter": 47
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0309_deal_25713377.jpg",
+          "name": "스파클링 보이차/석류/레몬  데일리톡 모음 (택1)",
+          "info": {
+            "prices": {
+              "sale": 3900
+            },
+            "counter": 34
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0309_deal_25955842.jpg",
+          "name": "[신제품] 백도사 백짜장 철가방(6개입)",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 15000
+            },
+            "counter": 12
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/mobile/01_Happy_trend/Happy_Deal/1704/d0413_happydeal_24357183_moz84.jpg",
+          "name": "박미란 고수의 추천 늘맑은 포기김치 10kg",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 30900
+            },
+            "like": 93,
+            "counter": 226
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0309_deal_25342597.jpg",
+          "name": "산지직송 진해산 피꼬막 3kg 외 / 무료배송",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 5900,
+              "etc": true
+            },
+            "like": 95,
+            "counter": 168
+          }
+        }
+      ],
+      "specialBanner": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/health/2018/03/(m)d0305_deal_banner_happy_moz84.jpg",
+          "label": "나를 위한 소소한 소비 만원의 행복"
+        }
+      ]
+    },
+    {
+      "productNumber": "670554",
+      "title": "Fashion Show-room",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/tit_fashion.png",
+      "class": "titFashion",
+      "storeBanner": {
+        "class": "showroom",
+        "list": [
+          {
+            "link": "#",
+            "label": "분홍코끼리",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/fashion/2018/03/(m)d0312_theme_fashion_banner_4_moz84.jpg",
+            "name": "분홍코끼리 브랜드 위크"
+          },
+          {
+            "link": "#",
+            "label": "도서/학습지",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/fashion/2018/03/(m)d0306_theme_fashion_banner_43244_moz84.jpg",
+            "name": "신학기 도서/학습지"
+          },
+          {
+            "link": "#",
+            "label": "디어제인특가",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/fashion/2018/03/(m)d0312_theme_fashion_banner_01_moz84.jpg",
+            "name": "디어제인 브랜드 특가"
+          },
+          {
+            "link": "#",
+            "label": "백화점베스트",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/fashion/2018/03/(m)d0312_theme_fashion_banner_02_moz84.jpg",
+            "name": "위클리 베트스 아이템"
+          }
+        ]
+      },
+      "list": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0314_deal_25998604.jpg",
+          "name": "[분홍코끼리] 봄신상 BEST 슬립온 모음",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "percent": 17,
+              "sale": 15900,
+              "origin": 23800,
+              "etc": true
+            },
+            "like": 100,
+            "counter": 10
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0309_deal_25770713.jpg",
+          "name": "[엘르][엘르] 화사한 여성 봄 롱 스카프 10종 택1",
+          "info": {
+            "prices": {
+              "percent": 27,
+              "sale": 5510,
+              "origin": 7000,
+              "etc": true
+            },
+            "counter": 145
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/02/(m)0223_deal_25884675.jpg",
+          "name": "반디스토어 물빠지는 목욕가방 모음전",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "percent": 98,
+              "sale": 6900
+            },
+            "counter": 421
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0309_deal_25950976.jpg",
+          "name": "[푸마] 브라탑&레깅스&런닝 (스타일택일)",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "percent": 100,
+              "sale": 7900,
+              "etc": true
+            },
+            "counter": 117
+          }
+        }
+      ]
+    },
+    {
+      "productNumber": "671055",
+      "title": "헬씨 리빙",
+      "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/tit_living.png",
+      "class": "titLiving",
+      "storeBanner": {
+        "class": "goodlife",
+        "list": [
+          {
+            "link": "#",
+            "label": "리빙베스트",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/jalsan/2018/03/(m)d0308_theme_best_banner_moz84.jpg",
+            "name": "인기 리빙 상품"
+          },
+          {
+            "link": "#",
+            "label": "미세먼지대비",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/jalsan/2018/01/(m)d0123_theme_jalsan_banner_dust_moz84.jpg",
+            "name": "호흡기 지킴이"
+          },
+          {
+            "link": "#",
+            "label": "하림펫푸드",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/health/2018/03/(m)d0305_theme_health_banner_petfood.jpg",
+            "name": "the real gold dew"
+          },
+          {
+            "link": "#",
+            "label": "쉿!비밀특가",
+            "banner": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/theme/jalsan/2018/03/(m)d0308_theme_jalsan_banner_secretprice_moz84.jpg",
+            "name": "이번주 비밀특가"
+          }
+        ]
+      },
+      "list": [
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0310_deal_25865406.jpg",
+          "name": "루만 저주파 목안마기 진동마사지 이동형저주파",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 29800
+            },
+            "counter": 20
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0307_deal_25755800.jpg",
+          "name": "[클레어] 클레어 공기청정기 클레어링 BF2025 외 4종 특가 모음딜",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 8900
+            },
+            "counter": 23
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0309_deal_25809631.jpg",
+          "name": "[위닉스] [2018년 신상품] 위닉스 공기청정기 타워Q ATQE400-HWK",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 249000
+            },
+            "counter": 3
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0313_deal_25784022.jpg",
+          "name": "[코코도르] [코코도르]뉴 블랙에디션 디퓨져 500ml",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 14800,
+              "etc": true
+            },
+            "like": 97,
+            "counter": 584
+          }
+        },
+        {
+          "link": "#",
+          "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/banner/mobile/happydeal/2018/03/(m)0307_deal_25946732.jpg",
+          "name": "[코리아아피스] 핸드폰 보호필름/포밍 풀커버 2.5D 강화유리 엣지 호환 갤럭시노트8 아이폰X S8 플러스 7 6",
+          "info": {
+            "freeShip": true,
+            "prices": {
+              "sale": 1900,
+              "etc": true
+            },
+            "like": 99,
+            "counter": 154
+          }
+        }
+      ]
+    }
+  ],
+  "bottomBanner": {
+    "link": "#",
+    "img": "//image.nsmall.com/ec_comimages/nsupload/espot/images/mobile/18_HUB_Common/common/ban_foodApp_L.jpg",
+    "label": "건강한밥상 모바일앱"
+  }
+}

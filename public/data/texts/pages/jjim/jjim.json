@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/7/24/257/24877257_O.jpg",
+      "name": "[카즈미] USB 핸디형선풍기 (블랙) K7T3N001",
+      "price": {
+        "origin": 8900,
+        "sale": 7560
+      }
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/3/26/823/26203823_O.jpg",
+      "name": "[SK매직]얼음정수기 렌탈 WPU-I100C 4종사은품",
+      "price": {
+        "origin": 43900
+      },
+      "status": "reservation"
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/7/23/537/23517537_O.jpg",
+      "name": "[KC인증 발매트]_아이 라이크 유 40cm x 60cm /주방매트/현관매트/욕실매트/화장실매트/인테리어/매트/생활용품/주방발매트/현관발매트/욕실발매트/화장실발매트/인테리어용품",
+      "price": {
+        "origin": 7400,
+        "sale": 5320
+      },
+      "soldout": true
+    },
+    {
+      "link": "#",
+      "img": "//image.nsmall.com/itemimg/3/24/073/24780073_O.jpg",
+      "name": "쿠쿠 CRP-HPF0668SH IH전기압력밥솥 6인용",
+      "price": {
+        "origin": 214000,
+        "sale": 203300
+      }
+    }
+  ]
+}
